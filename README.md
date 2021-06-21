@@ -1,8 +1,12 @@
+# Raz
 <!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf 8">
   <title>Мой первый сайт</title>
+  <link rel="stylesheet" href="./fonts.css">
+  <link rel="stylesheet" href="https://fonts:googleapis.com/css2?family=Roboto&display=swap">
+  <link rel="stylesheet" href="./fonts.css">
 </head>
   <body>
     <header>
